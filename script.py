@@ -51,7 +51,7 @@ def sendmail(content,to,fromEmail,fromEmailPass):
 
 
 
-states = ["Madhya Pradesh", "Delhi"]
+states = ["Madhya Pradesh", "Delhi" , "Rajasthan"]
 # Add states you want to track in above states list from reference given below
 # Andhra Pradesh
 # Bihar
